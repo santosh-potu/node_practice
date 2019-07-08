@@ -1,0 +1,4 @@
+test input file
+used for node js
+programs testing
+
